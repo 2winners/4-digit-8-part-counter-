@@ -11,3 +11,6 @@ it has a few modes
 5 - a randomly generated card from a deck of spanish cards (plays all 40 cards before reset)
 6 - chess timer setup
 7 - chess timer
+
+digit display: pdf datasheet.
+https://optoelectronics.liteon.com/upload/download/DS-30-95-241/LTC-4625G.pdf
